@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+
+#pymilvus
+faiss-cpu
+langchain==0.0.178
+sentence-transformers
+unstructured
+GitPython
+
+

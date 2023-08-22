@@ -1,0 +1,14 @@
+transformers
+accelerate
+einops
+torch
+xformers
+
+fastapi
+uvicorn
+pydantic
+
+faiss-cpu
+langchain==0.0.178
+sentence-transformers
+
